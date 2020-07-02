@@ -1,5 +1,4 @@
-# python_with_pytorch
-Custom environment for DL using PyTorch 1.5.0 and Python 3.6.9 (with GPU support)
+# Custom environment for DL using PyTorch 1.5.0 and Python 3.6.9 (with GPU support)
 
 docker image --> docker pull pibytwo/python_with_pytorch:0.1
 
