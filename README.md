@@ -1,6 +1,8 @@
 # python_with_pytorch
 Custom environment for DL using PyTorch 1.5.0 and Python 3.6.9 (with GPU support)
 
+docker image --> docker pull pibytwo/python_with_pytorch:0.1
+
 Packages included - 
 1.  opencv-python-headless==4.2.0.32
 2. flask==1.1.1
